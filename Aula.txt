@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Smart TV LED 43" Full HD LG  
+         </title>
+            <meta charset="utf-8"/>
+            <style>
+            p1{
+                width: 650px;
+                border: 1px solid powderblue;
+                padding: 30px;
+            }
+        </style>
+     <script>
+         alert("ola mundo");
+
+     </script>
+    </head>
+    <body>
+
+<h1>Smart TV LED 43" Full HD LG 43LJ5550 com Painel IPS, Wi-Fi, WebOS 3.5, Time 
+    Machine Ready, Magic Zoom, Quick Access, HDMI e USB</h1>
+   
+    <img src="img/smart.jpg" alt="TV LG" width="705" height="596">
+    
+<p>
+        A TV LG 43LJ5550 possui imagens realistas e tecnologias que você nunca viu. Com a plataforma Smart mais rápida do mercado, o WebOS 3.5 é muito mais intuitivo e conta com diversas funções novas, além de entregar uma melhor experiência para o consumidor. A função Quick Access permite acessar diversos recursos com um simples toque de botão do controle remoto. Outro diferencial do modelo LG 43LJ5550 é a qualidade do painel IPS que oferece excelente qualidade de imagem para todos os seus conteúdos. E não importa onde você esteja sentado, você sempre tem o melhor ângulo de visão.
+        Clique e confira o manual disponível do produto e tire todas as dúvidas
+
+</p>
+<label for="">x:</label>
+<input type="text" id="inpt1"/>
+<h2>Teste de javascripti</h2>
+
+    </body>
+    <script type="text/javascript"src="main.js"></script>
+</html>
